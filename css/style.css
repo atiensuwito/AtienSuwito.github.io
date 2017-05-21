@@ -25,3 +25,19 @@
     width: 400;
     height: 200;
 }
+.img-responsive {
+    height: 250px;
+}
+.header h1 {
+    font-family:monospace;
+    color: darkblue;
+    font-size: 50pt
+}
+.header h1 {
+    font-family:monospace;
+    color: darkblue;
+    font-size: 50pt
+}
+.header {
+    background-image: url('../images/backgr.jpeg')
+}
